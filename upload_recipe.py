@@ -27,7 +27,7 @@ async def main(path: str) -> None:
     localization = (await get_localization_options(country="de", language="de-DE"))[0]
     cfg = CookidooConfig(localization=localization, email=email, password=password)
 
-    async with ClientSession(cookie_jar=CookieJar(unsafe=True)) as session:
+    async with ClientSession(cookie_jar=CookieJar(unsafe=True), trust_env=True) as session:
         cookidoo = Cookidoo(session, cfg)
         await cookidoo.login()
         recipe = await cookidoo.create_custom_recipe(
