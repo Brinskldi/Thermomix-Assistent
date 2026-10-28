@@ -1,0 +1,23 @@
+{
+  "name": "Omas Vanillekipferl",
+  "serving_size": 40,
+  "unit_text": "Stück",
+  "active_time": 1800,
+  "total_time": 4500,
+  "ingredients": [
+    "200 g Mehl",
+    "50 g Zucker",
+    "80 g gemahlene Nüsse",
+    "150 g Butter oder Margarine, kalt",
+    "50 g Zucker (zum Wälzen)",
+    "2 Päckchen Vanillezucker (zum Wälzen)"
+  ],
+  "instructions": [
+    "50 g Zucker und 2 Päckchen Vanillezucker in den trockenen Mixtopf geben. TM7: Manuelles Kochen → Manuelle Einstellungen | 10 Sek. | Stufe 10. In einen tiefen Teller umfüllen und beiseitestellen. Mixtopf nicht spülen.",
+    "200 g Mehl, 50 g Zucker, 80 g gemahlene Nüsse und 150 g kalte Butter in Stücken in den Mixtopf geben. TM7: Manuelles Kochen → Manuelle Einstellungen | 20 Sek. | Stufe 4. Falls noch krümelig: mit dem Spatel nach unten schieben, 10 Sek. | Stufe 4 wiederholen.",
+    "Teig herausnehmen, zu einer Kugel formen, in Frischhaltefolie wickeln und 30 Min. kühlen. Währenddessen Backofen auf 175 °C Ober-/Unterhitze vorheizen und Backblech mit Backpapier belegen.",
+    "Teig zu fingerdicken Rollen formen, in ca. 3 cm lange Stücke schneiden, zu Hörnchen biegen und mit Abstand auf das Blech legen.",
+    "Auf mittlerer Schiene 10–12 Min. backen, bis die Spitzen leicht goldgelb sind.",
+    "2–3 Min. abkühlen lassen und noch warm vorsichtig im Vanille-Puderzucker wälzen."
+  ]
+}
